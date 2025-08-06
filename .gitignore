@@ -1,0 +1,16 @@
+# Ignorar checkpoints de notebooks Jupyter
+.ipynb_checkpoints/
+
+# Ignorar arquivos temporários e caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos de backup de editores
+*.swp
+*.swo
+*~
+
+# Ignorar arquivos específicos do VSCode
+.vscode/
